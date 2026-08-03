@@ -99,18 +99,6 @@ def contact_us_page():
     time.sleep(4)    
     
     
-
-
-        
-                                        
-        
-        
-
-
-    
-    
-    
-    
 def main():
     sign_up()
     register_page()
